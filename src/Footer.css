@@ -1,0 +1,105 @@
+.Footer {
+  margin-top: 10%;
+  margin-bottom: 0px;
+}
+
+.footer__tags {
+  display: flex;
+  background-color: #232f3e;
+  justify-content: space-evenly;
+  padding: 20px;
+  border-bottom: 0.5px solid rgba(211, 211, 211, 0.4);
+}
+
+.footer__panel {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: flex-start;
+  margin: 40px 0;
+}
+
+.footer__panel > h2 {
+  font-size: 20px;
+  font-weight: 600;
+  width: fit-content;
+  margin-bottom: 15px;
+}
+
+.footer__panel > p {
+  font-size: 12px;
+  font-weight: 400;
+  margin-bottom: 5px;
+  color: lightgrey;
+}
+
+.footer__panel > p > a:link,
+a:visited {
+  color: lightgrey;
+}
+
+.footer__panel > p > a:hover {
+  color: #ffba00;
+  text-decoration: underline;
+}
+
+.footer__countries {
+  display: flex;
+  flex-direction: column;
+  background-color: #232f3e;
+  width: 100%;
+  padding: 10px;
+  align-items: center;
+}
+
+.footer__countries > div > img {
+  display: flex;
+  padding: 20px;
+  object-fit: contain;
+  max-height: 50px;
+}
+
+.footer__countryNames {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer__countryNames > p {
+  margin: 15px;
+  width: fit-content;
+  color: white;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.footer__tagline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #131a22;
+  padding: 30px 0;
+  color: rgba(211, 211, 211, 0.4);
+}
+
+.footer__tagline > p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.footer__tagline > a {
+  color: rgba(211, 211, 211, 0.4);
+  font-size: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: 600;
+}
+
+.footer__icon {
+  margin: 0 10px;
+}
+
+.footer__tagline > a:hover {
+  color: #25d366;
+  text-decoration: underline;
+}
