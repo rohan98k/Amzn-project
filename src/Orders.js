@@ -29,8 +29,8 @@ function Orders() {
 
   return (
     <div className="orders">
-      <h1>Thanks for your order</h1>
-      <p>We're processing your order now, here are the details</p>
+      <h1>Your Order History</h1>
+      <p>Thank you for shopping with us</p>
 
       <div className="orders__order">
         {orders?.map((order) => (
