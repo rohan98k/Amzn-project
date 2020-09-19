@@ -47,7 +47,6 @@ a:visited {
   display: flex;
   flex-direction: column;
   background-color: #232f3e;
-  width: 100%;
   padding: 10px;
   align-items: center;
 }
