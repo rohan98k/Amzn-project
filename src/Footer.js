@@ -19,7 +19,7 @@ function Footer() {
           <p>
             <a
               target="_blank"
-              //rel="noopener noreferrer"
+              rel="noopener noreferrer"
               href="https://www.facebook.com/Rohan98k/"
             >
               Facebook
@@ -28,7 +28,7 @@ function Footer() {
           <p>
             <a
               target="_blank"
-              //rel="noopener noreferrer"
+              rel="noopener noreferrer"
               href="https://www.instagram.com/rohan98k/"
             >
               Instagram
@@ -37,7 +37,7 @@ function Footer() {
           <p>
             <a
               target="_blank"
-              //rel="noopener noreferrer"
+              rel="noopener noreferrer"
               href="https://github.com/rohan98k"
             >
               Github
@@ -61,7 +61,7 @@ function Footer() {
       </div>
       <div className="footer__countries">
         <div>
-          <img src="http://pngimg.com/uploads/amazon/amazon_PNG25.png" alt="" />
+          <img src="https://www.kindpng.com/picc/b/17/172246.png" alt="" />
         </div>
         <div className="footer__countryNames">
           <p>Australia</p>

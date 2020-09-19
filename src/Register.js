@@ -29,7 +29,7 @@ function Register() {
       <Link to="/">
         <img
           className="login__logo"
-          src="http://pngimg.com/uploads/amazon/amazon_PNG24.png"
+          src="https://www.kindpng.com/picc/b/17/172263.png"
           alt=""
         />
       </Link>
